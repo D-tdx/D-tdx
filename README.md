@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debanjan Biswas</h1>
 <h3 align="center">A passionate Software developer & Data analyst</h3>
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=6c09b952bb7tuo13mm2i9gwa88fiya233ejwzalwdm4ud1x6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-tdx&label=Profile%20views&color=0e75b6&style=flat" alt="d-tdx" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deb_techgeek" target="blank"><img src="https://img.shields.io/twitter/follow/deb_techgeek?logo=twitter&style=for-the-badge" alt="deb_techgeek" /></a> </p>
